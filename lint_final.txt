@@ -1,0 +1,10 @@
+﻿
+> gpa-calculator-react@0.0.0 lint
+> eslint .
+
+
+D:\Github Project\Bangladeshi Exam GPA Calculator\src\App.jsx
+  1:20  error  'useEffect' is defined but never used. Allowed unused vars must match /^[A-Z_]|motion/u  no-unused-vars
+
+Γ£û 1 problem (1 error, 0 warnings)
+
