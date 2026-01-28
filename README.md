@@ -45,6 +45,15 @@ A premium, professional, and fully interactive GPA calculator designed specifica
 - Visualized data charts showing marks distribution.
 - Official-style Grade Sheet generator for downloading results.
 
+### 📄 Legal & Support Center
+- **Privacy First**: Professional Privacy Policy covering AI data usage.
+- **Usage Agreements**: Clear Terms of Service matching industry standards.
+- **Contact Hub**: Modern, interactive support form with real-time success states.
+
+### 🔐 Source Protection & Security
+- **Anti-Inspection**: Integrated security layer to disable Right-Click and Developer Tools (F12, Ctrl+U, etc.).
+- **Data Safety**: All academic calculations are processed locally on the client's device.
+
 ---
 
 ## 🛠 Technology Stack
@@ -67,14 +76,18 @@ Bangladeshi Exam GPA Calculator/
 │   ├── components/
 │   │   ├── AdmissionTracker.jsx    # Real-time eligibility logic
 │   │   ├── CardNav.jsx             # Ultra-compact animated navbar
+│   │   ├── ChatBot.jsx             # BGC Agent AI floating assistant
+│   │   ├── ContactSupport.jsx      # Interactive support hub
 │   │   ├── Footer.jsx              # Multilingual professional footer
 │   │   ├── GradingChart.jsx        # Reference table for grades
 │   │   ├── InfoArticles.jsx        # Guides & Interactive FAQ
 │   │   ├── Newsletter.jsx          # Web3Forms subscription system
+│   │   ├── PrivacyPolicy.jsx       # Legal & AI data transparency
 │   │   ├── ResourceCard.jsx        # Official links container
 │   │   ├── ResultDisplay.jsx       # GPA visualization & charts
 │   │   ├── SubjectInput.jsx        # Configuration & list management
 │   │   ├── SubjectRow.jsx          # Individual mark inputs
+│   │   ├── TermsOfService.jsx      # Policy & usage agreement
 │   │   └── ValidationPopup.jsx     # Modern error dialogs
 │   ├── hooks/
 │   │   ├── useGPACalculator.js     # State & Logic orchestration
